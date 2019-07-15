@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01_编程小白第一本python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py基础练习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sinaWeibo-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sinaWeibo-master/doc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sinaWeibo-master/spider" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/sinaWeibo-master/weibo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/py基础练习/03_单元测试" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="R User Library" level="project" />
+    <orderEntry type="library" name="R Skeletons" level="application" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
